@@ -1,0 +1,4 @@
+name: RestartHttp
+version: '1.0'
+main: pe.bazan.luis.plugins.restarthttp.RestartHttp
+api-version: '1.20'
